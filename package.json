@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "khaleel kham",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.7"
+  }
+}
